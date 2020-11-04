@@ -7,4 +7,4 @@
 
 /gb/shop/* https://www.appnovation.com/:splat 200!  
 /sites/* https://www.appnovation.com/sites/:splat 200!
-/themes/* https://www.appnovation.com/sites/:splat 200!
+/themes/* https://www.appnovation.com/themes/:splat 200!
