@@ -1,1 +1,3 @@
 /fr/shop* https://www.alpro.com/fr/recettes/:splat 200!
+
+/it/shop* https://alpro-ecom.myshopify.com/:splat 200!
