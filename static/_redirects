@@ -1,5 +1,5 @@
-/fr/shop* https://www.alpro.com/fr/recettes/:splat 200!
+/fr/shop/* https://www.alpro.com/fr/recettes/:splat 200!
 
-/it/shop* https://alpro-ecom.myshopify.com/:splat 200!
+/it/shop/* https://alpro-ecom.myshopify.com/:splat 200!
 
-/es/shop* https://www.bbc.com/news/:splat 200!
+/es/shop/* https://www.bbc.com/news/:splat 200!
