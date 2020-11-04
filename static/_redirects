@@ -5,3 +5,5 @@
 /es/shop/* https://www.bbc.com/news/:splat 200!
 
 /gb/shop/* https://www.appnovation.com/:splat 200!  
+
+/sites/* https://www.appnovation.com/sites/:splat 200!
