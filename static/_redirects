@@ -3,3 +3,5 @@
 /it/shop/* https://alpro-ecom.myshopify.com/:splat 200!
 
 /es/shop/* https://www.bbc.com/news/:splat 200!
+
+/gb/shop/* https://www.appnovation.com/services/:splat 200!  
